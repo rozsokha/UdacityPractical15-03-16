@@ -17,7 +17,7 @@
         android:layout_alignParentTop="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fotFamily="sans-serif-light"
+        android:fontFamily="sans-serif-light"
         android:padding="20dp"
         android:textSize="36sp"
         android:textColor="#000000" />
@@ -28,7 +28,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:fotFamily="sans-serif-light"
+        android:fontFamily="sans-serif-light"
         android:padding="20dp"
         android:textSize="36sp"
         android:textColor="#000000"/>
